@@ -1,0 +1,47 @@
+Lesson Three Name, Age and Nationality
+
+第三课 姓名、年齡和国籍
+
+A: Excuse me. What's your name?
+
+甲：对不起。请问你叫什么名字？
+
+B: I'm May.
+
+乙：我叫小梅。
+
+A: Hi, May. Where are you from?
+
+甲：嗨，小梅。你是哪里人呢？
+
+B: I'm from Hong Kong. What about you?
+
+乙：我是香港人。那你呢？
+
+A: I'm From Japan.
+
+甲：我是日本人。
+
+A: May I have your name, please?
+
+甲：请问尊姓大名？
+
+B: My name is May.
+
+乙：我叫小梅。
+
+A: How old are you?
+
+甲：你几岁了？
+
+B: I'm twenty-five.
+
+乙：我二十五岁。
+
+A: Where are you from?
+
+甲：你是哪里人？
+
+B: I'm from Hong Kong.
+
+乙：我是香港人。

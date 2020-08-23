@@ -1,0 +1,51 @@
+The calendar shows the date.
+
+日历显示日期。
+
+There are 12 months in a year.
+
+一年有12个月。
+
+A month has 30 or 31 days.
+
+一个月有30天或31天。
+
+Today is the sixth of August.
+
+今天是8月6日。
+
+Then what was the date yesterday?
+
+那么，昨天是几号？
+
+It was August fifth.
+
+8月5日。
+
+Then what will be the date tomorrow?
+
+那么，明天是几号？
+
+It will be August seventh.
+
+8月7号。
+
+What date will it be five days from today?
+
+五天后是几号？
+
+What did you do the day before yesterday?
+
+前天你做了什么？
+
+We have dinner plans the day after tomorrow.
+
+后天我们有晚餐的计划。
+
+There are two types of calendars: the lunar calendar and the western calendar.
+
+日历有两种：阴历以及西历(即阳历)。
+
+February 7 is your birthday on the western calendar.
+
+2月7日是你的阳历生日。

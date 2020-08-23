@@ -1,0 +1,59 @@
+Lesson 10 Telephone Conversation II
+
+第十课　电话会话（二）
+
+ A: Hello, Dr. Chen's clinic. May I help you?
+
+甲：哈啰，这里是陈医师珍所。我可以帮您什么忙吗？
+
+B: Yes, please. I'd like to make an appointment to see Dr. Chen.
+
+乙：是的，麻烦你。我想约见陈医师。
+
+A: What's your name, please?
+
+甲：请问尊姓大名？
+
+B: My name is Micky Chen.
+
+乙：我的名字是陈米其。
+
+A: Is 4 o'clock in the afternoon OK?
+
+甲：下午4点钟可以吗？
+
+B: That's fine. Thank you.
+
+乙：可以。谢谢你。
+
+A: I would like to make a long-distance call to California, please.
+
+甲：我想打一通长途电话到加州。
+
+B: Person-to-person or station-to-station?
+
+乙：叫人的或叫号的？
+
+A: Station-to-station.
+
+甲：叫号的。
+
+B: What's the number, please.
+
+乙：请问电话号码几号？
+
+A: Area code 415, 789-0277.
+
+甲：区域号码为415，对方电话是789-0277。
+
+B: One moment, please.
+
+乙：请稍候。
+
+A: Thank you.
+
+甲：谢谢。
+
+
+
+

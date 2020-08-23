@@ -1,0 +1,63 @@
+Lesson 22 Booking an Airline Ticket
+
+第二十二课　订机票
+
+ A: Hi! My name is John Lin. I'd like to book a flight to Rome, please.
+
+甲：嗨！我叫林约翰。我想预订到罗马的班机。
+
+B: Do you wish to fly first class, business or economy?
+
+乙：您想搭头等舱、商务舱还是经济舱？
+
+A: Economy.
+
+甲：经济舱。
+
+B: Date of departure?
+
+乙：出发的日期呢？
+
+A: July 4th.
+
+甲：7月4日。
+
+B: OK. You're booked on flight number CX167. It departs at 11:15 AM.
+
+乙：好的。您预订的是CX167班机。早上11点15分起飞。
+
+A: Japan Airlines. Can I help you?
+
+甲：日本航空公司。我可以为您效劳吗？
+
+B: Yes. I'm Mr. Peter Lai. I'd like to reserve a round-trip ticket to Paris, please.
+
+乙：是的。我是赖彼得先生。麻烦你，我想预订到巴黎的来回机票。
+
+A: Which class? And for when?
+
+甲：您要搭什么舱位？还有时间是什么时候？
+
+B: Business class, for this Sunday.
+
+乙：商务舱，时间是这个星期天。
+
+A: One moment, please. . . . OK. I've booked you on flight number 007. It departs at 5:30 p. m. Please call back on Friday to reconfirm.
+
+甲：请稍候。……好了，我已为您订了下午5:30起飞的007号班机。请在星期五打电话来再确认。
+
+B: OK.
+
+乙：好的。
+
+A: Your confirmation code number is XE3849.
+
+甲：您的确认代码是XE3849。
+
+B: Thank you.
+
+乙：谢谢。
+
+
+
+
